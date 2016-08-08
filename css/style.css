@@ -1,0 +1,11 @@
+.navihoverblue {
+  transition: 2.0s ease;
+  background-color: #3c9cdd;
+
+}
+
+.navihoverblue:hover {
+  transition: 1.7s ease;
+  background-color: #2980b9;
+  cursor: pointer;
+}
